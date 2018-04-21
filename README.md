@@ -1,5 +1,5 @@
 ## 与Omni官方的区别 ##
-由于众所周知的愿意，采用清华AOSP镜像源代替Google AOSP源
+由于众所周知的原因，采用清华AOSP镜像源代替Google AOSP源
 
 ## Submitting Patches ##
 ------------------
